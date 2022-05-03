@@ -1,10 +1,6 @@
 ﻿  22_03_22_Zap637_MiPrimerPrograma.cpp
-C:\Users\AMK28\Desktop\zap637_Fundamentos_de_programacion\22_03_22_Zap637_MiPrimerPrograma\22_03_22_Zap637_MiPrimerPrograma.cpp(30,13): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
-C:\Users\AMK28\Desktop\zap637_Fundamentos_de_programacion\22_03_22_Zap637_MiPrimerPrograma\22_03_22_Zap637_MiPrimerPrograma.cpp(30,13): message : los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
-C:\Users\AMK28\Desktop\zap637_Fundamentos_de_programacion\22_03_22_Zap637_MiPrimerPrograma\22_03_22_Zap637_MiPrimerPrograma.cpp(30,13): message : el argumento variádico 2 que falta es requerido por la cadena de formato '%c'
-C:\Users\AMK28\Desktop\zap637_Fundamentos_de_programacion\22_03_22_Zap637_MiPrimerPrograma\22_03_22_Zap637_MiPrimerPrograma.cpp(30,13): message : este argumento se utiliza como un tamaño de búfer
-C:\Users\AMK28\Desktop\zap637_Fundamentos_de_programacion\22_03_22_Zap637_MiPrimerPrograma\22_03_22_Zap637_MiPrimerPrograma.cpp(48,13): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
-C:\Users\AMK28\Desktop\zap637_Fundamentos_de_programacion\22_03_22_Zap637_MiPrimerPrograma\22_03_22_Zap637_MiPrimerPrograma.cpp(48,13): message : los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
-C:\Users\AMK28\Desktop\zap637_Fundamentos_de_programacion\22_03_22_Zap637_MiPrimerPrograma\22_03_22_Zap637_MiPrimerPrograma.cpp(48,13): message : el argumento variádico 2 que falta es requerido por la cadena de formato '%100s'
-C:\Users\AMK28\Desktop\zap637_Fundamentos_de_programacion\22_03_22_Zap637_MiPrimerPrograma\22_03_22_Zap637_MiPrimerPrograma.cpp(48,13): message : este argumento se utiliza como un tamaño de búfer
-  22_03_22_Zap637_MiPrimerPrograma.vcxproj -> C:\Users\AMK28\Desktop\zap637_Fundamentos_de_programacion\22_03_22_Zap637_MiPrimerPrograma\Debug\22_03_22_Zap637_MiPrimerPrograma.exe
+C:\Users\AMK28\Desktop\zap637_Fundamentos_de_programacion\Amerike_Zap637\22_03_22_Zap637_MiPrimerPrograma\22_03_22_Zap637_MiPrimerPrograma.cpp(30,13): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+C:\Users\AMK28\Desktop\zap637_Fundamentos_de_programacion\Amerike_Zap637\22_03_22_Zap637_MiPrimerPrograma\22_03_22_Zap637_MiPrimerPrograma.cpp(30,13): message : los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+C:\Users\AMK28\Desktop\zap637_Fundamentos_de_programacion\Amerike_Zap637\22_03_22_Zap637_MiPrimerPrograma\22_03_22_Zap637_MiPrimerPrograma.cpp(30,13): message : el argumento variádico 2 que falta es requerido por la cadena de formato '%c'
+C:\Users\AMK28\Desktop\zap637_Fundamentos_de_programacion\Amerike_Zap637\22_03_22_Zap637_MiPrimerPrograma\22_03_22_Zap637_MiPrimerPrograma.cpp(30,13): message : este argumento se utiliza como un tamaño de búfer
+  22_03_22_Zap637_MiPrimerPrograma.vcxproj -> C:\Users\AMK28\Desktop\zap637_Fundamentos_de_programacion\Amerike_Zap637\22_03_22_Zap637_MiPrimerPrograma\Debug\22_03_22_Zap637_MiPrimerPrograma.exe
