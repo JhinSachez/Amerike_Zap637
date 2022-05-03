@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Zap637_09_04_2022_Pokemon", "Zap637_09_04_2022_Pokemon.vcxproj", "{B78E79F4-644F-438D-A09F-EED6C4C078BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B78E79F4-644F-438D-A09F-EED6C4C078BF}.Debug|x64.ActiveCfg = Debug|x64
+		{B78E79F4-644F-438D-A09F-EED6C4C078BF}.Debug|x64.Build.0 = Debug|x64
+		{B78E79F4-644F-438D-A09F-EED6C4C078BF}.Debug|x86.ActiveCfg = Debug|Win32
+		{B78E79F4-644F-438D-A09F-EED6C4C078BF}.Debug|x86.Build.0 = Debug|Win32
+		{B78E79F4-644F-438D-A09F-EED6C4C078BF}.Release|x64.ActiveCfg = Release|x64
+		{B78E79F4-644F-438D-A09F-EED6C4C078BF}.Release|x64.Build.0 = Release|x64
+		{B78E79F4-644F-438D-A09F-EED6C4C078BF}.Release|x86.ActiveCfg = Release|Win32
+		{B78E79F4-644F-438D-A09F-EED6C4C078BF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F0B0D42-C975-482B-803F-9E5AA62634C5}
+	EndGlobalSection
+EndGlobal
