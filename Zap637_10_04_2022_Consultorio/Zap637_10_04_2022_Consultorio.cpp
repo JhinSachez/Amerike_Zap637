@@ -10,7 +10,7 @@ int main()
 	bool alergias;
 	string Nombre, Origen;
 	int Edad, CP;
-	float peso;
+	double peso;
 	double altura;
 	do {
 		cout << "*Entras a una consulta medica\n";
@@ -40,7 +40,7 @@ int main()
 							cin >> altura;
 							if (altura == 1.70) {
 								cout << "Coincide\n";
-								cout << "Tiene alergias?, Escriba 0 si tiene, escriba 1 si no tiene\n";
+								cout << "Tiene alergias?, Escriba 1 si tiene, escriba 0 si no tiene\n";
 								cin >> alergias;
 								if (alergias == false) {
 									cout << "Coincide\n";
@@ -61,7 +61,7 @@ int main()
 
 
 		cout << "Quiere salir del programa?\n";
-		cout << "Para quedarse escriba 0, Para salir escriba 1\n";
+		cout << "Para quedarse escriba 1, Para salir escriba 0\n";
 		cin >> repetir;
 	} while (repetir == true);
 }
