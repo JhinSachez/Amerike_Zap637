@@ -11,7 +11,7 @@ int main()
 	int years[5];
 	int contador = 0;
 	
-	for (int aux = 1; aux <= 5; aux++) {
+	for (int aux = 0; aux <= 4; aux++) {
 		cout << "Ingrese el autor del libro #" << aux << endl;
 		cin.ignore();
 		getline(cin, autor[aux]);
@@ -21,10 +21,10 @@ int main()
 		cin >> years[aux];
 	}
 
-	for (int aux2 = 1; aux2 <= 5; aux2++) {
-		cout << "El titulo del primer libro es: " << titulos[aux2] << endl;
-		cout << "El año de publicacion del primer libro es: " << years[aux2] << endl;
-		cout << "El autor del primer libro es: " << autor[aux2] << endl;
+	for (int aux2 = 0; aux2 <= 4; aux2++) {
+		cout << "El titulo del libro es: " << aux2 << " " <<  titulos[aux2] << endl;
+		cout << "El año de publicacion del libro es: " << aux2 << " " <<  years[aux2] << endl;
+		cout << "El autor del  libro es: " << aux2 << " " << autor[aux2] << endl;
 		cout << "-----------------" << endl;
 	}
 
