@@ -1,0 +1,3 @@
+﻿  Zap637_10_05_2022_TamañoArrays.cpp
+C:\Users\AMK28\Desktop\zap637_Fundamentos_de_programacion\Amerike_Zap637\Zap637_10_05_2022_TamañoArrays\Zap637_10_05_2022_TamañoArrays.cpp(13,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Zap637_10_05_2022_TamañoArrays.vcxproj -> C:\Users\AMK28\Desktop\zap637_Fundamentos_de_programacion\Amerike_Zap637\Zap637_10_05_2022_TamañoArrays\Debug\Zap637_10_05_2022_TamañoArrays.exe
