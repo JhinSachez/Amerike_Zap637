@@ -1,0 +1,3 @@
+﻿  Zap637_17_05_2022_MatrizDinamica.cpp
+C:\Users\AMK28\Desktop\zap637_Fundamentos_de_programacion\Amerike_Zap637\Zap637_17_05_2022_MatrizDinamica\Zap637_17_05_2022_MatrizDinamica.cpp(8,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Zap637_17_05_2022_MatrizDinamica.vcxproj -> C:\Users\AMK28\Desktop\zap637_Fundamentos_de_programacion\Amerike_Zap637\Zap637_17_05_2022_MatrizDinamica\Debug\Zap637_17_05_2022_MatrizDinamica.exe
