@@ -5,22 +5,22 @@ using namespace std;
 
 int main()
 {
-	srand(time(NULL));
+	srand(time(0));
+	string charset = "0123456789";
 	int filas;
 	int columnas;
 
 	cout << "Ingrese el numero de filas y columnas que quiera\n";
 	cin >> filas >> columnas;
-	int** matriz = new int* [filas];
+	string** matriz = new string* [filas];
 	for (int i = 0; i < filas; i++) {
-		matriz[i] = new int[columnas];
+		matriz[i] = new string[columnas];
 	}
 
 	for (int i = 0; i < filas; i++) {
 		for (int j = 0; j < columnas; j++) {
-			matriz[i][j] = 0;
 			if (filas && columnas > 3) {
-				matriz[i][j] = rand() % 9;
+				matriz[i][j] = charset[rand() % 9];
 				cout << "Num[" << i << "][" << j << "]: " << matriz[i][j] << endl;
 			}
 			else {
